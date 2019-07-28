@@ -12,6 +12,9 @@ create-react-app是一个react工程脚手架，可快速构建一个react应用
 
 `create-react-app react-router-demo`
 
+如图所示：
+![cdm-create](https://github.com/lijinping2017/react-router-demo/raw/master/docImages/cmd-creact.jpg)
+
 回车后等待项目安装完成，此时项目名称为 `react-router-demo`。
 
 (3)、安装完成后，我们会在 `D:\test` 中看到新增的 `react-router-demo` 文件，文件结构如下：
@@ -55,7 +58,10 @@ create-react-app是一个react工程脚手架，可快速构建一个react应用
 
 回车。
 
-(2)安装完成后，打开 `package.json` 文件，我们会看到安装的 `react-router-dom` 存放在`devDependencies` 下，并且在 `node_modules` 文件下也新增的 `react-router-dom` 的模块包，此时项目就可以使用 `router` 插件了。
+(2)安装完成后，打开 `package.json` 文件，我们会看到安装的 `react-router-dom` 存放在`devDependencies` 下，如图所示：
+![package-json](https://github.com/lijinping2017/react-router-demo/raw/master/docImages/package-json.jpg)
+
+并且在 `node_modules` 文件下也新增的 `react-router-dom` 的模块包，此时项目就可以使用 `router` 插件了。
 
 ### 4、使用Router的步骤
 (1)、在 `src` 文件夹下创建一个名为 `components` 的文件夹，用来存放项目的组件，在`components` 文件夹下创建三个 `js` 文件，分别为 `Hoem.js`、 `News.js`、 `MyRoter.js` 代码如下：
