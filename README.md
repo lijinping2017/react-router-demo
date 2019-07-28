@@ -9,7 +9,7 @@ dfdf
 
 
 
-# 1223# 
+# 1223
 
 
 yutyrhtdgfdfg
@@ -23,3 +23,10 @@ tytger
 4、将github上刚创建的项目下载到本地文件中，发现README.md文件的图标没有显示tortoiseGit的图标
 5、百度解决文件没有显示tortoiseGit的图标的问题
 6、双击README.md文件不能打开，此时下载markdownpad2,安装后在双击README.md文件可以打开了
+
+js:
+
+	for(var i= 0;i<
+	p
+
+![1212](https://github.com/lijinping2017/react-router-demo/raw/master/docImages/banner00.jpg)
