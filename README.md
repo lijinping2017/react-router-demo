@@ -13,6 +13,7 @@ create-react-app是一个react工程脚手架，可快速构建一个react应用
 `create-react-app react-router-demo`
 
 如图所示：
+
 ![cdm-create](https://github.com/lijinping2017/react-router-demo/raw/master/docImages/cmd-creact.jpg)
 
 回车后等待项目安装完成，此时项目名称为 `react-router-demo`。
